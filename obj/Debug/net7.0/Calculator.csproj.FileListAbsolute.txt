@@ -1,0 +1,15 @@
+/media/thiago/Arquivos/dev/dotnet/Calculator/bin/Debug/net7.0/Calculator
+/media/thiago/Arquivos/dev/dotnet/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/media/thiago/Arquivos/dev/dotnet/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/media/thiago/Arquivos/dev/dotnet/Calculator/bin/Debug/net7.0/Calculator.dll
+/media/thiago/Arquivos/dev/dotnet/Calculator/bin/Debug/net7.0/Calculator.pdb
+/media/thiago/Arquivos/dev/dotnet/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/media/thiago/Arquivos/dev/dotnet/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/media/thiago/Arquivos/dev/dotnet/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/media/thiago/Arquivos/dev/dotnet/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/media/thiago/Arquivos/dev/dotnet/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/media/thiago/Arquivos/dev/dotnet/Calculator/obj/Debug/net7.0/Calculator.dll
+/media/thiago/Arquivos/dev/dotnet/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/media/thiago/Arquivos/dev/dotnet/Calculator/obj/Debug/net7.0/Calculator.pdb
+/media/thiago/Arquivos/dev/dotnet/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/media/thiago/Arquivos/dev/dotnet/Calculator/obj/Debug/net7.0/ref/Calculator.dll
